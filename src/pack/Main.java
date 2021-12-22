@@ -1,5 +1,13 @@
 package pack;
 
+/*
+ * Author: Eric F. Vara
+ * Date: 2/19/2020
+ *
+ * Description:
+ *
+ */
+
 public class Main {
     public static void main(String[] args) {
         // Instance of the PezDispenser class
